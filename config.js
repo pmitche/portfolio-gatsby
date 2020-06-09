@@ -1,23 +1,23 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://ppm-portfolio.netlify.app',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Paul Philip Mitchell',
+  subtitle: '.NET developer with a little side love for web & mobile development.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 6,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'About me',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Articles',
+      path: '/articles'
     },
     {
       label: 'Contact me',
@@ -25,25 +25,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Paul Philip Mitchell',
+    photo: '/profile.jpg',
+    bio: '.NET developer with a little side love for web & mobile development.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      email: 'paulpmit@gmail.com',
+      facebook: 'https://www.facebook.com/pmitche/',
+      github: 'https://www.github.com/pmitche/',
+      linkedin: 'https://www.linkedin.com/in/pmitche/',
     }
   }
 };
