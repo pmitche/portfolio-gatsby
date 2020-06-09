@@ -33,6 +33,17 @@ module.exports = {
       facebook: 'https://www.facebook.com/pmitche/',
       github: 'https://www.github.com/pmitche/',
       linkedin: 'https://www.linkedin.com/in/pmitche/',
+      telegram: '#',
+      twitter: '#',
+      rss: '',
+      vkontakte: '',
+      instagram: '#',
+      line: '',
+      gitlab: '',
+      weibo: '',
+      codepen: '',
+      youtube: '',
+      soundcloud: '',
     }
   }
 };
